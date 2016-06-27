@@ -8,8 +8,8 @@
 # Site settings
 title: Franklin Rice
 email: frice@berkeley.edu
-description: > # The personal website blog of Franklin Rice, UC Berkeley Electrical Engineering
-	and Computer Science major, student of the European Innovation Academy
+description: > # 
+    The personal website blog of Franklin Rice, UC Berkeley Electrical Engineering and Computer Science major, student of the European Innovation Academy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://franklinrice.girhub.io" # the base hostname & protocol for your site
 github_username:  franklinrice
